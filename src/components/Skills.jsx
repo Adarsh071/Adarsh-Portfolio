@@ -1,6 +1,6 @@
 import laravel from "../assets/laravel.png";
 import framer_motion from "../assets/framer_motion.png";
-import javascript from "../assets/javascript.png";
+import javascript from "../assets/javaScript.png";
 import node from "../assets/node.png";
 import next from "../assets/next.png";
 import java from "../assets/java.png";
